@@ -25,10 +25,6 @@
       * [ ] vite
       * [ ] vue use
     * [ ] react
-  * [ ] mock
-    * [ ] scss
-    * [ ] js
-      * [ ] es6
   * [ ] 浏览器
     * [ ] 渲染原理
     * [ ] 插件
