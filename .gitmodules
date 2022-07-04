@@ -1,0 +1,6 @@
+[submodule "frontend-constructor"]
+	path = frontend-constructor
+	url = https://github.com/ouhsnaux/frontend-constructor
+[submodule "writing"]
+	path = writing
+	url = https://github.com/ouhsnaux/writing
